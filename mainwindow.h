@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QtWidgets>
 #include "KeyManager.h"
 #include "KeyManagerFactory.h"
 #include "constants.h"
